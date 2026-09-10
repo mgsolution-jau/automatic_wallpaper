@@ -4,7 +4,7 @@
 
 # 1. Configurações da Logo e Visual
 $CaminhoLogo = "C:\Scripts\logo.png"
-$Opacidade = 0.65       
+$Opacidade = 0.85       
 $TamanhoLogo = 0.06     
 
 # 2. Obtém a resolução real do monitor
